@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MelogicOfficeBricks1", "Assembly-CSharp.csproj", "{040E298C-E332-BB15-AE6D-6F0B7600B873}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MelogicOfficeBricks1", "Assembly-CSharp-firstpass.csproj", "{5BC142D4-2302-2CC7-5D91-53FA41FDCDA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MelogicOfficeBricks1", "Assembly-CSharp-Editor-firstpass.csproj", "{911BE3EB-926D-1F85-F813-233E84C7BC55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{040E298C-E332-BB15-AE6D-6F0B7600B873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{040E298C-E332-BB15-AE6D-6F0B7600B873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{040E298C-E332-BB15-AE6D-6F0B7600B873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{040E298C-E332-BB15-AE6D-6F0B7600B873}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BC142D4-2302-2CC7-5D91-53FA41FDCDA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BC142D4-2302-2CC7-5D91-53FA41FDCDA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BC142D4-2302-2CC7-5D91-53FA41FDCDA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BC142D4-2302-2CC7-5D91-53FA41FDCDA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{911BE3EB-926D-1F85-F813-233E84C7BC55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911BE3EB-926D-1F85-F813-233E84C7BC55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911BE3EB-926D-1F85-F813-233E84C7BC55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911BE3EB-926D-1F85-F813-233E84C7BC55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
